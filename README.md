@@ -1,2 +1,3 @@
 # Tool or Toy
-一些自己开发的小工具，对你有用就是工具，对你没用就是玩具。
+If it solves your problem, it's a tool.
+If it sparks your curiosity, it's a toy.
