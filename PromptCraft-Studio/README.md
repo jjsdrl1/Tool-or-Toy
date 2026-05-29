@@ -1,7 +1,8 @@
 # PromptCraft Studio
 
 > **Prompt's Postman + Git diff** — A prompt engineering management platform for LLM developers. Single-machine, no multi-tenancy.
-> PromptCraft Studio 是一个面向 LLM 应用开发者的 Prompt 工程化管理平台，
+> PromptCraft Studio 是一个面向 LLM 应用开发者的 Prompt 工程化管理平台。
+> 作者在调试合适的prompt时想要拥有的工具🥹🥹🥹
 
 ---
 
