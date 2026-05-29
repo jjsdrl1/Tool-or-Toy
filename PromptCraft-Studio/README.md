@@ -1,8 +1,28 @@
 # PromptCraft Studio
 
 > **Prompt's Postman + Git diff** — A prompt engineering management platform for LLM developers. Single-machine, no multi-tenancy.
+> PromptCraft Studio 是一个面向 LLM 应用开发者的 Prompt 工程化管理平台，
 
 ---
+
+## 核心价值
+开发者在构建 AI 应用时，通常会积累大量混乱的 prompt 文件：
+```
+summary_prompt_v1.txt
+summary_prompt_final.txt
+summary_prompt_final_final.txt
+summary_prompt_new_0520.txt
+```
+PromptCraft Studio 解决的问题：
+|问题|解决方案|
+| ------------------------------------| ---------------------------------------|
+|Prompt 散落各处，难以追踪|项目化管理，版本快照|
+|不知道哪个版本效果最好|流式并排对比输出|
+|手动填变量，测试繁琐|变量模板 + 批量样例|
+|满意的 prompt 难以迁移到代码|一键导出 Python / TypeScript SDK 代码|
+|不同模型需要切换配置|API Preset 多配置管理|
+|相同 Prompt 在不同模型间效果难比较|模型对比（固定 Prompt，多模型批量跑）|
+
 
 ## 核心特性
 
