@@ -49,11 +49,6 @@ cd Tool-or-Toy/PromptCraft-Studio
 mysql -u root -p < scripts/mysql/init.sql
 ```
 
-> **注意：** 初始化脚本已包含 `batch_compare_group` 表的创建。若需要迁移旧数据，执行：
-> ```bash
-> mysql -u root -p promptcraft < scripts/mysql/V3__add_batch_compare.sql
-> ```
-
 ### 3. 配置本地环境
 
 复制配置模板：
